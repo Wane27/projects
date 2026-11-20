@@ -1,0 +1,7 @@
+1. Insert USB Stick, formatted to FAT32
+2. Sticks larger than 32GB must be partitioned to no larger than 32GB
+3. Create the Zebra folder into the root file of the USB stick
+4. Create three folders under Zebra: appl, commands, and files
+5. Put the ZPL code in the commands folder
+6. Put any files you want to add, such as certificates in the files folder
+7. Power on Zebra Printer, insert stick after fully booted, it will reboot, pull out during reboot
