@@ -25,7 +25,7 @@
 ! U1 setvar "internal_wired.ip.netmask" "<NETMASK0>"
 ! U1 setvar "display.password.level" "all"
 ! U1 setvar "mqtt.enable" "on"
-! U1 setvar "mqtt.conn1.server_address" "mqtts://<SERVER_ADDRESS>"
+! U1 setvar "mqtt.conn1.server_address" "mqtts://<SERVER_ADDRESS:PORT>"
 ! U1 setvar "mqtt.conn1.username" "Printer"
 ! U1 setvar "mqtt.conn1.password" "<PASSWORD>"
 ! U1 setvar "mqtt.conn1.tenant_id" "Printer"
